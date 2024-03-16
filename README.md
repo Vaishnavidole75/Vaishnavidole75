@@ -4,7 +4,7 @@
 <h3 align="center">Passionate Data Science Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-Computer%20Engineering-blue" alt="Mechatronics Engineering Student">
+  <img src="https://img.shields.io/badge/Student-Mechatronics%20Engineering-blue" alt="Mechatronics Engineering Student">
   <img src="https://img.shields.io/badge/Focus-Data%20Science-green" alt="Data Science">
 
   </p>
@@ -13,7 +13,7 @@
 
 - 🎓📚💻 **Mechatronics Engineering student at Sanjivani College of Engineering**
 
-- 👩🏻‍💻 All of my projects are available at [GitHub](https://github.com/NaikwadeVaishnavi)
+- 👩🏻‍💻 All of my projects are available at [GitHub]()
 <!--
 - 👨‍💻 Must visit my  [Portfolio](portfolio)
 -->
