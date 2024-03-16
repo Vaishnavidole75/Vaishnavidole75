@@ -13,7 +13,7 @@
 
 - 🎓📚💻 **Mechatronics Engineering student at Sanjivani College of Engineering**
 
-- 👩🏻‍💻 All of my projects are available at [GitHub]()
+- 👩🏻‍💻 All of my projects are available at [GitHub](https://github.com/Vaishnavidole75)
 <!--
 - 👨‍💻 Must visit my  [Portfolio](portfolio)
 -->
