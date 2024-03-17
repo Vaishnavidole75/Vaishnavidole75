@@ -1,12 +1,13 @@
 
 
 <h1 align="center">Hi there! 👋 I'm Vaishnavi Dole</h1>
-<h3 align="center">	Aspiring Data Scientist from India</h3>
+<h3 align="center">Aspiring Data Scientist from India</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Mechatronics%20Engineering-blue" alt="Mechatronics Engineering Student">
   <img src="https://img.shields.io/badge/Focus-Data%20Science-green" alt="Data Science">
-
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=NaikwadeVaishnavi&label=Profile%20views&color=0e75b6&style=flat](https://github.com/Vaishnavidole75/Vaishnavidole75/blob/main/gif_git.gif)" />
+</p>
   </p>
 
 </p>
