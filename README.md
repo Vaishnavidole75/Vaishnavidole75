@@ -22,7 +22,7 @@
 - 📧 How to reach me: vaishnavidole4may@gmail.com)
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Tools and Skills </h2>
 
 ###
 
