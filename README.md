@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there! 👋 I'm Vaishnavi Dole</h1>
-<h3 align="center">Passionate Data Science Enthusiast from India</h3>
+<h3 align="center">	Aspiring Data Scientist from India</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Mechatronics%20Engineering-blue" alt="Mechatronics Engineering Student">
