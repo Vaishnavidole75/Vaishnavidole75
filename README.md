@@ -18,7 +18,7 @@
 <!--
 - 👨‍💻 Must visit my  [Portfolio](portfolio)
 -->
-- 💭 Ask me about <strong>**Python, SQL, NLP, Machine Learning **</strong>
+- 💭 Ask me about <strong>**Python, SQL, Machine Learning **</strong>
 
 - 📧 How to reach me: vaishnavidole4may@gmail.com)
 
