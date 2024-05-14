@@ -1,5 +1,5 @@
 
-<h1 align="center" style="color: #6f42c1;">Hello!!!!!👋 I'm Vaishnavi,& I'm all about making numbers interesting.</h1>
+<h1 align="center" style="color: #6610f2;">Hello!!!!!👋 I'm Vaishnavi,& I'm all about making numbers interesting.</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
 <p align="center">
